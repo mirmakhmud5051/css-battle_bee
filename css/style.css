@@ -18,6 +18,9 @@
   height: 100vh;
   background-color: #998235;
   position: relative;
+  display: flex ;
+  align-items: center;
+  justify-content: center;
 }
 
 .box {
@@ -26,6 +29,9 @@
   position: absolute;
   top: 140px;
   left: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .wing__left {
