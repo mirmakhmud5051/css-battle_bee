@@ -131,3 +131,27 @@ top: 190px;
 left: 320px;
 
 }
+
+
+@media(max-width: 768px){
+  .main{
+    position: relative;
+  }
+
+  .box{
+    position: absolute;
+    left: 30px;
+    width: 350px;
+    height: 300px;
+  top: 30px;
+  }
+
+  .wing__left{
+    left: 20px;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+  }
+
+
+}
