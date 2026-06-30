@@ -147,6 +147,8 @@ left: 320px;
   }
 
   .wing__left{
+    width: 150px;
+    height: 150px;
     position: absolute;
     left: 20px;
   }
